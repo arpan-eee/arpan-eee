@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arpan Chakraborty</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://st5.depositphotos.com/17318446/65441/i/450/depositphotos_654419942-stock-illustration-cartoon-boy-sitting-desk-working.jpg)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://st5.depositphotos.com/17318446/65441/i/450/depositphotos_654419942-stock-illustration-cartoon-boy-sitting-desk-working.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-eee&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-eee" /> </p>
