@@ -1,7 +1,8 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Arpan Chakraborty</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://st5.depositphotos.com/17318446/65441/i/450/depositphotos_654419942-stock-illustration-cartoon-boy-sitting-desk-working.jpg">
+<img src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1704734904~exp=1704735504~hmac=48f8f63996f5ce683a2f65d1165fa216a18629fd1e5bc6d964f4ef7b930de995" alt="Man working on laptop with coffee">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpan-eee&label=Profile%20views&color=0e75b6&style=flat" alt="arpan-eee" /> </p>
