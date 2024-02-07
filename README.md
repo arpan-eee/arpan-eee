@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![Arpan](https://github.com/arpan-eee/arpan-eee/blob/main/Capture.PNG)
 <h1 align="center">Hi 👋, I'm Arpan Chakraborty</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
 <!-- <img src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1704734904~exp=1704735504~hmac=48f8f63996f5ce683a2f65d1165fa216a18629fd1e5bc6d964f4ef7b930de995" alt="Man working on laptop with coffee"> -->
