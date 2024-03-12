@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpan-eee" alt="arpan-eee" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 - 🔭 I’m currently working on [TrainEase](https://trainease.onrender.com/)
 - 🔭 My Previous Project [BookHaven](https://bookhaven-ub44.onrender.com/)
 
